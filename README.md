@@ -1,6 +1,6 @@
 # MapApp V10 - 3D Globe Story Map
 
-[DEMO OF THE MAPP APP](https://adamfehse.github.io/mapappv10/)
+[DEMO OF THE MAPP APP](https://confluencenter.github.io/DigitalStoryMap/)
 
 Interactive 3D globe for exploring Arizona-Sonora borderlands research and art projects.
 

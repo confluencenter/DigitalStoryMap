@@ -1,0 +1,305 @@
+/**
+ * theme-variables.css - Simplified theme system
+ * Light, Dark, Night (dark), Story (dark) - using only CSS custom properties that are actively used
+ */
+
+/* ===== GLOBAL TOKENS (all themes) ===== */
+:root {
+  color-scheme: light;
+
+  /* Transitions */
+  --transition-fast: 150ms ease;
+
+  /* Button tokens */
+  --btn-radius-small: 6px;
+  --btn-radius-default: 8px;
+  --btn-radius-pill: 999px;
+  --btn-transition: transform var(--transition-fast), box-shadow var(--transition-fast), background var(--transition-fast), border-color var(--transition-fast), color var(--transition-fast);
+
+  /* Primary button styling (theme-aware) */
+  --btn-primary-bg: linear-gradient(135deg, var(--primary) 0%, var(--primary-hover) 100%);
+  --btn-primary-text: #2a1607;
+  --btn-primary-shadow: 0 2px 6px rgba(var(--primary-rgb), 0.25);
+  --btn-primary-shadow-hover: 0 4px 12px rgba(var(--primary-rgb), 0.35);
+  --btn-primary-shadow-active: 0 1px 3px rgba(var(--primary-rgb), 0.2);
+
+  /* Detail view contrast elements (for hero overlays with images) */
+  --detail-contrast-border: rgba(255, 255, 255, 0.4);
+  --detail-contrast-border-strong: rgba(255, 255, 255, 0.55);
+  --detail-contrast-button-bg: rgba(255, 255, 255, 0.22);
+  --detail-contrast-button-bg-hover: rgba(255, 255, 255, 0.35);
+  --detail-contrast-ghost-bg: rgba(0, 0, 0, 0.2);
+  --detail-contrast-ghost-bg-hover: rgba(0, 0, 0, 0.32);
+  --detail-contrast-faint: rgba(255, 255, 255, 0.75);
+
+  /* Detail view glass elements */
+  --detail-glass-highlight: rgba(255, 255, 255, 0.04);
+  --detail-chip-border: rgba(255, 255, 255, 0.15);
+  --detail-pill-text: rgba(255, 255, 255, 0.85);
+
+  /* Overlay and background utility colors (theme-adaptive) */
+  --overlay-strong: rgba(0, 0, 0, 0.35);
+  --overlay-medium: rgba(0, 0, 0, 0.2);
+  --overlay-light: rgba(0, 0, 0, 0.08);
+  --white-overlay-subtle: rgba(255, 255, 255, 0.08);
+
+  /* Bottom sheet specific */
+  --sheet-handle-gradient: radial-gradient(circle at center, rgba(255, 255, 255, 0.08), transparent 50%);
+
+  /* Media card overlays */
+  --media-overlay-gradient: linear-gradient(180deg, rgba(0, 0, 0, 0.05) 0%, rgba(0, 0, 0, 0.65) 100%);
+  --media-chip-bg: rgba(0, 0, 0, 0.45);
+  --media-text-light: #ffffff;
+  --media-text-shadow: 0 2px 6px rgba(0, 0, 0, 0.35);
+
+  /* Badges and meta */
+  --detail-subtle-badge-bg: rgba(var(--primary-rgb), 0.08);
+  --detail-subtle-badge-border: rgba(var(--primary-rgb), 0.2);
+  --detail-meta-card-bg: rgba(var(--primary-rgb), 0.06);
+  --detail-meta-card-border: rgba(var(--primary-rgb), 0.15);
+  --badge-theme-bg: rgba(var(--primary-rgb), 0.15);
+}
+
+/* ===== LIGHT THEME (Default - Cozy Warm) ===== */
+:root,
+:root.theme-light {
+  color-scheme: light;
+
+  --primary: #a89968;
+  --primary-hover: #c2b088;
+  --primary-rgb: 168, 153, 104;
+
+  --overlay-strong: rgba(0, 0, 0, 0.25);
+  --overlay-medium: rgba(0, 0, 0, 0.14);
+  --overlay-light: rgba(0, 0, 0, 0.04);
+
+  --bg-primary: #ffffff;
+  --bg-secondary: #f5f5f5;
+  --bottom-sheet-bg: #fce4ec;
+
+  --text-primary: #2a251f;
+  --text-secondary: #5a4d42;
+  --text-muted: #8d8076;
+
+  --border-soft: rgba(168, 153, 104, 0.15);
+
+  --shadow-light: rgba(42, 37, 31, 0.06);
+  --shadow-medium: rgba(42, 37, 31, 0.12);
+
+  --sidebar-bg: #ffffff;
+  --panel-clear-background: #ffffff;
+  --panel-clear-background-hover: #fafafa;
+
+  --detail-close-background: rgba(42, 37, 31, 0.06);
+  --detail-close-color: var(--text-primary);
+  --detail-close-background-hover: rgba(42, 37, 31, 0.12);
+
+  --toolbar-background: rgba(250, 248, 245, 0.93);
+  --toolbar-border: rgba(2, 2, 2, 0.18);
+  --toolbar-text: #2a251f;
+  --toolbar-text-muted: rgba(90, 77, 66, 0.8);
+
+  --hero-overlay-bg: linear-gradient(145deg, rgba(42, 37, 31, 0.7) 0%, rgba(80, 68, 52, 0.65) 60%, rgba(110, 90, 70, 0.7) 100%);
+  --hero-text-color: #fefdfb;
+  --hero-meta-color: #f5f2ed;
+
+  --progress-dot-active: rgba(250, 248, 245, 0.96);
+
+  /* Detail view hero base for light theme */
+  --detail-hero-base-rgb: 50, 42, 34;
+  --detail-hero-overlay: linear-gradient(135deg, rgba(var(--primary-rgb), 0.22), rgba(var(--detail-hero-base-rgb), 0.75));
+  --detail-hero-fade: linear-gradient(
+    180deg,
+    rgba(var(--detail-hero-base-rgb), 0.12) 0%,
+    rgba(var(--detail-hero-base-rgb), 0.58) 70%,
+    rgba(var(--detail-hero-base-rgb), 0.82) 100%
+  );
+  --detail-hero-placeholder-bg: radial-gradient(circle at 30% 30%, rgba(var(--primary-rgb), 0.35), rgba(var(--detail-hero-base-rgb), 0.8));
+  --detail-hero-shadow: 0 30px 80px rgba(var(--detail-hero-base-rgb), 0.32);
+  --detail-panel-shadow: 0 15px 35px rgba(var(--detail-hero-base-rgb), 0.12);
+}
+
+/* ===== DARK THEME ===== */
+:root.theme-dark {
+  color-scheme: dark;
+
+  --primary: #6aa8ff;
+  --primary-hover: #8bc0ff;
+  --primary-rgb: 106, 168, 255;
+
+  --overlay-strong: rgba(0, 0, 0, 0.35);
+  --overlay-medium: rgba(0, 0, 0, 0.2);
+  --overlay-light: rgba(0, 0, 0, 0.08);
+
+  --bg-primary: #050914;
+  --bg-secondary: #081126;
+  --bottom-sheet-bg: rgba(5, 9, 20, 0.92);
+
+  --text-primary: #dde6ff;
+  --text-secondary: #9fb7ff;
+  --text-muted: #6d7ba2;
+
+  --border-soft: rgba(106, 168, 255, 0.18);
+
+  --shadow-light: rgba(2, 6, 17, 0.45);
+  --shadow-medium: rgba(0, 3, 10, 0.65);
+
+  --sidebar-bg: rgba(5, 9, 20, 0.92);
+  --panel-clear-background: rgba(10, 16, 32, 0.9);
+  --panel-clear-background-hover: rgba(12, 20, 40, 0.94);
+
+  --detail-close-background: rgba(255, 255, 255, 0.06);
+  --detail-close-color: var(--text-primary);
+  --detail-close-background-hover: rgba(255, 255, 255, 0.12);
+
+  --toolbar-background: rgba(5, 9, 20, 0.88);
+  --toolbar-border: rgba(106, 168, 255, 0.3);
+  --toolbar-text: #dde6ff;
+  --toolbar-text-muted: rgba(159, 183, 255, 0.85);
+
+  --hero-overlay-bg: linear-gradient(150deg, rgba(4, 8, 18, 0.96) 0%, rgba(7, 16, 34, 0.92) 55%, rgba(12, 28, 57, 0.95) 100%);
+  --hero-text-color: #f4f7ff;
+  --hero-meta-color: rgba(138, 192, 255, 0.95);
+
+  --progress-dot-active: rgba(255, 255, 255, 0.92);
+
+  --btn-primary-text: #031024;
+  --btn-primary-shadow: 0 2px 6px rgba(var(--primary-rgb), 0.3);
+  --btn-primary-shadow-hover: 0 4px 12px rgba(var(--primary-rgb), 0.45);
+  --btn-primary-shadow-active: 0 1px 3px rgba(var(--primary-rgb), 0.25);
+
+  /* Detail view hero base for dark theme */
+  --detail-hero-base-rgb: 5, 9, 20;
+  --detail-hero-overlay: linear-gradient(135deg, rgba(var(--primary-rgb), 0.25), rgba(var(--detail-hero-base-rgb), 0.85));
+  --detail-hero-fade: linear-gradient(
+    180deg,
+    rgba(var(--detail-hero-base-rgb), 0.2) 0%,
+    rgba(var(--detail-hero-base-rgb), 0.75) 70%,
+    rgba(var(--detail-hero-base-rgb), 0.95) 100%
+  );
+  --detail-hero-placeholder-bg: radial-gradient(circle at 30% 30%, rgba(var(--primary-rgb), 0.35), rgba(var(--detail-hero-base-rgb), 0.9));
+  --detail-hero-shadow: 0 30px 80px rgba(var(--detail-hero-base-rgb), 0.4);
+  --detail-panel-shadow: 0 15px 35px rgba(var(--detail-hero-base-rgb), 0.15);
+}
+
+/* ===== NIGHT THEME (inherits from dark) ===== */
+:root.theme-night {
+  color-scheme: dark;
+
+  --primary: #6fcfbf;
+  --primary-hover: #8be0cf;
+  --primary-rgb: 111, 207, 191;
+
+  --bg-primary: #041f1c;
+  --bg-secondary: #052b25;
+  --bottom-sheet-bg: rgba(4, 27, 23, 0.93);
+
+  --text-primary: #dff7f1;
+  --text-secondary: #a8d8cf;
+  --text-muted: #6ba99f;
+
+  --border-soft: rgba(111, 207, 191, 0.18);
+
+  --shadow-light: rgba(0, 10, 8, 0.45);
+  --shadow-medium: rgba(0, 10, 8, 0.65);
+
+  --sidebar-bg: rgba(4, 27, 23, 0.93);
+  --panel-clear-background: rgba(6, 38, 33, 0.9);
+  --panel-clear-background-hover: rgba(8, 46, 40, 0.94);
+
+  --detail-close-background: rgba(255, 255, 255, 0.08);
+  --detail-close-color: var(--text-primary);
+  --detail-close-background-hover: rgba(255, 255, 255, 0.12);
+
+  --toolbar-background: rgba(4, 27, 23, 0.9);
+  --toolbar-border: rgba(111, 207, 191, 0.3);
+  --toolbar-text: #dff7f1;
+  --toolbar-text-muted: rgba(168, 216, 207, 0.85);
+
+  --hero-overlay-bg: linear-gradient(150deg, rgba(3, 20, 18, 0.96) 0%, rgba(5, 33, 29, 0.92) 50%, rgba(7, 45, 39, 0.95) 100%);
+  --hero-text-color: #e9fbf6;
+  --hero-meta-color: rgba(142, 227, 207, 0.95);
+
+  --progress-dot-active: rgba(223, 247, 241, 0.95);
+
+  --btn-primary-text: #04221d;
+  --btn-primary-shadow: 0 2px 6px rgba(var(--primary-rgb), 0.25);
+  --btn-primary-shadow-hover: 0 4px 12px rgba(var(--primary-rgb), 0.4);
+  --btn-primary-shadow-active: 0 1px 3px rgba(var(--primary-rgb), 0.22);
+
+  /* Detail view hero base for night theme */
+  --detail-hero-base-rgb: 4, 27, 23;
+  --detail-hero-overlay: linear-gradient(135deg, rgba(var(--primary-rgb), 0.25), rgba(var(--detail-hero-base-rgb), 0.85));
+  --detail-hero-fade: linear-gradient(
+    180deg,
+    rgba(var(--detail-hero-base-rgb), 0.2) 0%,
+    rgba(var(--detail-hero-base-rgb), 0.75) 70%,
+    rgba(var(--detail-hero-base-rgb), 0.95) 100%
+  );
+  --detail-hero-placeholder-bg: radial-gradient(circle at 30% 30%, rgba(var(--primary-rgb), 0.35), rgba(var(--detail-hero-base-rgb), 0.9));
+  --detail-hero-shadow: 0 30px 80px rgba(var(--detail-hero-base-rgb), 0.4);
+  --detail-panel-shadow: 0 15px 35px rgba(var(--detail-hero-base-rgb), 0.15);
+}
+
+/* ===== STORY THEME (inherits from dark but with coral colors) ===== */
+:root.theme-story {
+  color-scheme: dark;
+
+  --primary: #f08b75;
+  --primary-hover: #f6a86b;
+  --primary-rgb: 240, 139, 117;
+
+  --overlay-strong: rgba(0, 0, 0, 0.35);
+  --overlay-medium: rgba(0, 0, 0, 0.2);
+  --overlay-light: rgba(0, 0, 0, 0.08);
+
+  --bg-primary: #170b1c;
+  --bg-secondary: #201029;
+  --bottom-sheet-bg: rgba(23, 11, 28, 0.93);
+
+  --text-primary: #ffeef7;
+  --text-secondary: #f9cce0;
+  --text-muted: #cba0bd;
+
+  --border-soft: rgba(240, 139, 117, 0.2);
+
+  --shadow-light: rgba(10, 2, 19, 0.45);
+  --shadow-medium: rgba(10, 2, 19, 0.65);
+
+  --sidebar-bg: rgba(23, 11, 28, 0.93);
+  --panel-clear-background: rgba(37, 18, 48, 0.9);
+  --panel-clear-background-hover: rgba(45, 22, 58, 0.94);
+
+  --detail-close-background: rgba(255, 255, 255, 0.08);
+  --detail-close-color: var(--text-primary);
+  --detail-close-background-hover: rgba(255, 255, 255, 0.15);
+
+  --toolbar-background: rgba(23, 11, 28, 0.9);
+  --toolbar-border: rgba(240, 139, 117, 0.35);
+  --toolbar-text: #ffeef7;
+  --toolbar-text-muted: rgba(249, 204, 224, 0.85);
+
+  --hero-overlay-bg: linear-gradient(150deg, rgba(34, 8, 44, 0.96) 0%, rgba(55, 11, 48, 0.92) 55%, rgba(73, 18, 52, 0.95) 100%);
+  --hero-text-color: #fff1f4;
+  --hero-meta-color: rgba(255, 197, 211, 0.95);
+
+  --progress-dot-active: rgba(255, 241, 244, 0.95);
+
+  --btn-primary-text: #2b0b13;
+  --btn-primary-shadow: 0 2px 6px rgba(var(--primary-rgb), 0.25);
+  --btn-primary-shadow-hover: 0 4px 12px rgba(var(--primary-rgb), 0.35);
+  --btn-primary-shadow-active: 0 1px 3px rgba(var(--primary-rgb), 0.2);
+
+  /* Detail view hero base for story theme */
+  --detail-hero-base-rgb: 34, 8, 44;
+  --detail-hero-overlay: linear-gradient(135deg, rgba(var(--primary-rgb), 0.25), rgba(var(--detail-hero-base-rgb), 0.85));
+  --detail-hero-fade: linear-gradient(
+    180deg,
+    rgba(var(--detail-hero-base-rgb), 0.2) 0%,
+    rgba(var(--detail-hero-base-rgb), 0.75) 70%,
+    rgba(var(--detail-hero-base-rgb), 0.95) 100%
+  );
+  --detail-hero-placeholder-bg: radial-gradient(circle at 30% 30%, rgba(var(--primary-rgb), 0.35), rgba(var(--detail-hero-base-rgb), 0.9));
+  --detail-hero-shadow: 0 30px 80px rgba(var(--detail-hero-base-rgb), 0.4);
+  --detail-panel-shadow: 0 15px 35px rgba(var(--detail-hero-base-rgb), 0.15);
+}

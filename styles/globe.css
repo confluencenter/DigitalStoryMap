@@ -1,0 +1,452 @@
+/**
+ * globe.css - Cesium-specific styles for 3D globe
+ *
+ * RESPONSIBILITY:
+ * - Style the Cesium 3D viewer container
+ * - Full-width/full-height responsive layout
+ */
+
+/* Globe container */
+.globe-container {
+  flex: 1 1 auto;
+  min-width: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+/* 3D Viewer (fills entire container) */
+.globe-viewer {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+/* Cesium viewer containers */
+.globe-viewer .cesium-viewer {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Ensure Cesium canvas is focusable for keyboard nav */
+.cesium-viewer canvas {
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+}
+
+.cesium-viewer canvas:focus {
+  outline-color: var(--primary);
+}
+
+/* Floating toolbar */
+.globe-toolbar {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  z-index: 100;
+  background: var(--toolbar-background);
+  padding: 1rem;
+  border-radius: 8px;
+  border: 1px solid var(--toolbar-border);
+  box-shadow: 0 4px 12px var(--shadow-medium);
+  backdrop-filter: blur(10px);
+  transition: opacity 200ms ease, transform 200ms ease;
+}
+
+.globe-container.low-power .globe-toolbar {
+  backdrop-filter: none;
+  background: color-mix(in srgb, var(--toolbar-background) 85%, var(--overlay-light) 15%);
+  box-shadow: 0 3px 8px var(--shadow-light);
+}
+
+.globe-toolbar h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--toolbar-text);
+}
+
+.globe-toolbar p {
+  margin: 0.25rem 0;
+  font-size: 0.85rem;
+  color: var(--toolbar-text-muted);
+}
+
+.toolbar-homage {
+  margin: 0.75rem 0 0;
+  font-size: 0.75rem;
+  color: var(--toolbar-text-muted);
+  text-align: center;
+}
+
+.globe-container.narrative-active .globe-toolbar {
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(-12px);
+}
+
+.globe-container.narrative-active .cesium-viewer-toolbar,
+.globe-container.narrative-active .cesium-viewer-bottom {
+  opacity: 0;
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.cesium-viewer-toolbar,
+.cesium-viewer-bottom {
+  transition: opacity 200ms ease;
+}
+
+/* Map style controls - moved to bottom sheet */
+.map-controls {
+  display: none;
+}
+
+/* Quality selector */
+.quality-selector {
+  position: relative;
+}
+
+.quality-button {
+  width: 100%;
+  padding: 0.5rem 0.75rem;
+  background: var(--toolbar-background);
+  color: var(--text-primary);
+  border: 1px solid var(--toolbar-border);
+  border-radius: var(--btn-radius-small);
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: var(--btn-transition);
+  text-align: left;
+}
+
+.quality-button:hover,
+.quality-button:focus-visible {
+  background: var(--panel-clear-background-hover);
+  border-color: rgba(var(--primary-rgb), 0.55);
+  color: var(--text-primary);
+}
+
+.quality-menu {
+  position: absolute;
+  top: calc(100% + 0.5rem);
+  left: 0;
+  right: 0;
+  background: color-mix(in srgb, var(--sidebar-bg) 80%, var(--white-overlay-subtle) 20%);
+  border: 1px solid rgba(var(--primary-rgb), 0.25);
+  border-radius: 6px;
+  box-shadow: 0 20px 40px var(--shadow-medium);
+  z-index: 1000;
+  overflow: hidden;
+  animation: slideDown 200ms ease-out;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.quality-menu button {
+  display: block;
+  width: 100%;
+  padding: 0.6rem 0.75rem;
+  background: transparent;
+  color: var(--text-primary);
+  border: none;
+  text-align: left;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: var(--btn-transition);
+  border-bottom: 1px solid rgba(var(--primary-rgb), 0.12);
+}
+
+.quality-menu button:last-child {
+  border-bottom: none;
+}
+
+.quality-menu button:hover,
+.quality-menu button:focus-visible {
+  background: rgba(var(--primary-rgb), 0.18);
+  color: var(--text-primary);
+}
+
+.quality-menu button.active {
+  background: rgba(var(--primary-rgb), 0.1);
+  color: var(--primary);
+  font-weight: 600;
+}
+
+/* Share button in toolbar */
+
+.toolbar-share-btn {
+  width: 100%;
+  padding: 0.6rem 0.75rem;
+  background: var(--btn-primary-bg);
+  color: var(--btn-primary-text);
+  border: none;
+  border-radius: var(--btn-radius-small);
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--btn-transition);
+  box-shadow: var(--btn-primary-shadow);
+  text-align: center;
+}
+
+.toolbar-share-btn:hover,
+.toolbar-share-btn:focus-visible {
+  transform: translateY(-1px);
+  box-shadow: var(--btn-primary-shadow-hover);
+}
+
+.toolbar-share-btn:active {
+  transform: translateY(0);
+  box-shadow: var(--btn-primary-shadow-active);
+}
+
+/* Intro overlay */
+.globe-intro-overlay {
+  position: absolute;
+  inset: 0;
+  z-index: 200;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--intro-text-color);
+  padding: 2rem;
+  opacity: 1;
+  transition: opacity 600ms ease;
+}
+
+.globe-intro-overlay[hidden] {
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* Gradient background */
+.intro-gradient-bg {
+  position: absolute;
+  inset: 0;
+  background: var(--intro-overlay-gradient);
+  z-index: -1;
+}
+
+/* Content wrapper with centering */
+.intro-content-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 800px;
+  gap: 3rem;
+}
+
+.intro-content {
+  max-width: 680px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.intro-title {
+  margin: 0;
+  font-size: clamp(1.75rem, 4vw, 2.5rem);
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  animation: fadeInScale 800ms cubic-bezier(0.34, 1.56, 0.64, 1);
+  color: var(--intro-text-color);
+}
+
+.intro-title.fade-in {
+  animation: fadeInScale 800ms cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+@keyframes fadeInScale {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* Narrative description text */
+.intro-narrative-text {
+  margin: 0;
+  font-size: clamp(1rem, 2.2vw, 1.25rem);
+  line-height: 1.7;
+  opacity: 0.95;
+  font-weight: 400;
+  letter-spacing: 0.3px;
+  min-height: 5rem;
+  animation: fadeInUp 600ms ease-out;
+  color: var(--intro-muted-color);
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Progress indicator dots */
+.intro-progress {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.progress-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: rgba(var(--primary-rgb), 0.3);
+  transition: all 320ms ease;
+  cursor: pointer;
+}
+
+.progress-dot.active {
+  background: var(--progress-dot-active);
+  width: 12px;
+  height: 12px;
+  box-shadow: 0 0 14px rgba(var(--primary-rgb), 0.4);
+}
+
+.progress-dot.completed {
+  background: rgba(var(--primary-rgb), 0.7);
+  box-shadow: 0 0 10px rgba(var(--primary-rgb), 0.35);
+}
+
+.intro-actions {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 0;
+}
+
+.intro-button {
+  padding: 0.75rem 2rem;
+  border-radius: var(--btn-radius-pill);
+  background: var(--intro-button-background);
+  color: var(--intro-button-text);
+  border: none;
+  font-weight: 600;
+  font-size: 1rem;
+  box-shadow: var(--intro-button-shadow);
+  cursor: pointer;
+  transition: var(--btn-transition);
+  position: relative;
+  overflow: hidden;
+}
+
+.intro-button::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+  animation: shimmer 3s infinite;
+}
+
+.globe-container.low-power .intro-button::before {
+  animation: none;
+}
+
+@keyframes shimmer {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+
+.intro-button:hover,
+.intro-button:focus-visible {
+  transform: translateY(-2px);
+  box-shadow: var(--intro-button-shadow-strong);
+}
+
+.intro-button:active {
+  transform: translateY(0);
+}
+
+.intro-skip {
+  padding: 0.75rem 2rem;
+  border-radius: var(--btn-radius-pill);
+  background: var(--intro-skip-background);
+  color: var(--intro-text-color);
+  border: 1.5px solid var(--intro-skip-border);
+  font-weight: 500;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: var(--btn-transition);
+  backdrop-filter: blur(4px);
+}
+
+.globe-container.low-power .intro-button {
+  box-shadow: 0 6px 18px var(--shadow-medium);
+}
+
+.globe-container.low-power .intro-skip {
+  backdrop-filter: none;
+}
+
+.intro-skip:hover,
+.intro-skip:focus-visible {
+  background: color-mix(in srgb, var(--intro-skip-background) 60%, rgba(var(--primary-rgb), 0.2) 40%);
+  border-color: color-mix(in srgb, var(--intro-skip-border) 60%, rgba(var(--primary-rgb), 0.5) 40%);
+  box-shadow: 0 4px 16px var(--shadow-medium);
+}
+
+/* Reduced motion: avoid fades */
+@media (prefers-reduced-motion: reduce) {
+  .globe-intro-overlay {
+    transition: none;
+  }
+}
+
+/* Mobile: Full screen globe on mobile */
+@media (max-width: 768px) {
+  .globe-container {
+    height: 100%;
+  }
+
+  .globe-viewer {
+    width: 100%;
+    height: 100%;
+  }
+
+  .globe-toolbar {
+    top: auto;
+    bottom: 1rem;
+    left: 1rem;
+  }
+}
+
+/* Additional fade-in down animation for intro overlay */
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

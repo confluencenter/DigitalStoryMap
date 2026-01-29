@@ -1,0 +1,2518 @@
+[
+  {
+    "id": "project-1-the-place-where-clouds-are-for",
+    "ProjectName": "The Place Where Clouds Are Formed",
+    "ProjectLeads": [
+      "Dr. Ofelia Zepeda",
+      "Gareth Smith",
+      "Martin Zicari"
+    ],
+    "Affiliation": "UA Department of Linguistics, March Water Inc",
+    "Year": 2022,
+    "Email": "ofelia@arizona.edu",
+    "ImageUrl": "https://confluencenter.arizona.edu/sites/default/files/2024-03/4396c0db-638a-8b7c-1082-25d61738ad1e.png",
+    "ProjectCategory": "Art-Based Projects",
+    "Theme": "Place and Identity",
+    "Product": "Collective Art",
+    "Location": "Tohono O'odham Nation",
+    "DescriptionShort": "Immersive O'odham poetry, photography, and sound imagining a borderless desert sky.",
+    "DescriptionLong": "The Place Where Clouds Are Formed is a community-led collaboration pairing Dr. Ofelia Zepeda's Tohono O'odham poetry with Gareth Smit's borderlands photography and Martin Zicari's sound design. The traveling exhibition invites visitors to listen, read, and feel the desert while reflecting on how political boundaries divide ancestral lands.",
+    "Latitude": 32.222607,
+    "Longitude": -110.974709,
+    "Bio": null,
+    "Artworks": [
+      {
+        "title": "Exhibition Installation",
+        "description": "Projected poems and still photography surround visitors with desert horizons and O'odham language.",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2024-03/4396c0db-638a-8b7c-1082-25d61738ad1e.png"
+      },
+      {
+        "title": "Portrait: Dr. Ofelia Zepeda",
+        "description": "Regents' Professor and poet Dr. Zepeda leads audiences through O'odham verse that anchors the exhibition.",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-03/Ofelia-Zepeda-Headshot.jpg"
+      },
+      {
+        "title": "Portrait: Gareth Smit",
+        "description": "Photographer Gareth Smit's lens follows desert skies and borderland communities featured in the show.",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-03/Gareth-Smit-Headshot.jpg"
+      },
+      {
+        "title": "Portrait: Martin Zicari",
+        "description": "Composer Martin Zicari layers field recordings that swell and recede like the clouds above Sonora.",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-03/Martin-Zicari-Headshot.jpg"
+      }
+    ],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": true,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "art"
+    ]
+  },
+  {
+    "id": "project-2-amplifying-blackness-in-the-bo",
+    "ProjectName": "Amplifying Blackness in the Borderlands",
+    "ProjectLeads": [
+      "Stephanie Troutman Robbins"
+    ],
+    "Affiliation": "UA Gender and Women's Studies",
+    "Year": 2022,
+    "Email": "troutumans@arizona.edu",
+    "ImageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-03/Stephanie-Troutman-Robbins-Headshot.jpg",
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Place and Identity",
+    "Product": "Workshops",
+    "Location": "Tucson",
+    "DescriptionShort": "Stephanie Troutman Robbins uplifts Black joy and placemaking narratives across the Sonoran borderlands.",
+    "DescriptionLong": "Amplifying Blackness in the Borderlands gathers educators, students, and culture bearers to map how Black communities have shaped the desert Southwest. Through workshops, storytelling, and public programs, Dr. Stephanie Troutman Robbins centers intersectional experiences of Black life in Tucson and beyond.",
+    "Latitude": 32.197416,
+    "Longitude": -110.94138,
+    "Bio": null,
+    "Artworks": [
+      {
+        "title": "Portrait: Stephanie Troutman Robbins",
+        "description": "Scholar and advocate Dr. Troutman Robbins facilitates intergenerational learning on Black lifeways in the borderlands.",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-03/Stephanie-Troutman-Robbins-Headshot.jpg"
+      }
+    ],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": true,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-3-binational-art-grants---progra",
+    "ProjectName": "Binational Art Grants - Programa Nuevos Creadores",
+    "ProjectLeads": [
+      "Nadir del Cid",
+      "Guadalupe Serrano"
+    ],
+    "Affiliation": "Instituto Municipal de Fomento de la Cultura y las Artes de Nogales, Museo de Arte de Nogales",
+    "Year": 2022,
+    "Email": "nadir.delcid@imfoculta.gob.mx",
+    "ImageUrl": null,
+    "ProjectCategory": "Art-Based Projects",
+    "Theme": "Place and Identity",
+    "Product": "Collective Art",
+    "Location": "Nogales, MX",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.214363,
+    "Longitude": -110.945107,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": true,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "art"
+    ]
+  },
+  {
+    "id": "project-4-i-19-collective",
+    "ProjectName": "I-19 Collective",
+    "ProjectLeads": [
+      "Mel and Melissa Dominguez"
+    ],
+    "Affiliation": "Galeria Mitotera",
+    "Year": 2022,
+    "Email": "galeriamitotera@gmail.com",
+    "ImageUrl": null,
+    "ProjectCategory": "Art-Based Projects",
+    "Theme": "Place and Identity",
+    "Product": "Collective Art",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.203688,
+    "Longitude": -110.876805,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": true,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "art"
+    ]
+  },
+  {
+    "id": "project-5-migrant-and-asylum-seeker-just",
+    "ProjectName": "Migrant and Asylum-Seeker Justice Project",
+    "ProjectLeads": [
+      "Isabel Garcia",
+      "Alba Jaramillo"
+    ],
+    "Affiliation": "Coalición de Derechos Humanos - Teatro Dignidad",
+    "Year": 2022,
+    "Email": "chita.garcia@yahoo.com",
+    "ImageUrl": null,
+    "ProjectCategory": "Art-Based Projects",
+    "Theme": "Migration and Human Rights",
+    "Product": "Theater & Other Live Performances",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.285753,
+    "Longitude": -110.96387,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": true,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "art"
+    ]
+  },
+  {
+    "id": "project-6-undergraduate-internship-progr",
+    "ProjectName": "Undergraduate Internship Program",
+    "ProjectLeads": [
+      "Colin Deeds"
+    ],
+    "Affiliation": "UA Latin American Studies",
+    "Year": 2022,
+    "Email": "colind@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Academic Advisory",
+    "Product": "Experiential Learning Activities",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.284146,
+    "Longitude": -110.830115,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-7-undergraduate-internship-progr",
+    "ProjectName": "Undergraduate Internship Program, I-19 Collective",
+    "ProjectLeads": [
+      "David Taylor"
+    ],
+    "Affiliation": "UA College of Fine Arts",
+    "Year": 2022,
+    "Email": "davidtaylor@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Academic Advisory",
+    "Product": "Experiential Learning Activities",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.240675,
+    "Longitude": -110.917624,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-8-undergraduate-internship-progr",
+    "ProjectName": "Undergraduate Internship Program, I-19 Collective",
+    "ProjectLeads": [
+      "Alejandro Macias"
+    ],
+    "Affiliation": "UA College of Fine Arts",
+    "Year": 2022,
+  "Email": "alejandromacias@arizona.edu",
+  "ImageUrl": "https://exhibits.lib.arizona.edu/files/original/053877c23850afbde683a6c1706aa6e3.jpg",
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Academic Advisory",
+    "Product": "Experiential Learning Activities",
+    "Location": "Tucson",
+    "DescriptionShort": "Alejandro Macias mentors borderlands artists through the I-19 Collective internship and exhibition program.",
+    "DescriptionLong": "Alejandro Macias builds pathways for undergraduate artists to create public work that reflects borderlands identity. Through the I-19 Collective internship, fellows curate exhibitions, document community stories, and support the collective's PandemiDiarios project amplifying binational voices during the pandemic.",
+    "Latitude": 32.11039,
+    "Longitude": -110.961997,
+    "Bio": null,
+    "Artworks": [
+      {
+        "title": "PandemiDiarios Print Wall",
+        "description": "Collaged student prints highlight everyday borderlands life inside the PandemiDiarios exhibition.",
+        "imageUrl": "https://exhibits.lib.arizona.edu/files/original/053877c23850afbde683a6c1706aa6e3.jpg"
+      },
+      {
+        "title": "Portrait: Alejandro Macias",
+        "description": "Artist and educator Alejandro Macias guides student fellows in producing community-connected exhibitions.",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-03/Alejandro-Macias-Headshot.jpg"
+      },
+      {
+        "title": "PandemiDiarios Exhibition Detail",
+        "description": "I-19 Collective student fellows assemble visual diaries documenting life along the I-19 corridor.",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-03/pandemidiarios-exhibit.jpg"
+      }
+    ],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [
+      {
+        "title": "Student Curated Exhibitions",
+        "description": "Undergraduates co-curated PandemiDiarios installations in Tucson and Nogales, highlighting binational pandemic narratives.",
+        "link": "https://confluencenter.arizona.edu/news/pandemidiarios"
+      }
+    ],
+    "HasArtwork": true,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-9-undergraduate-internship-progr",
+    "ProjectName": "Undergraduate Internship Program",
+    "ProjectLeads": [
+      "Robin Reineke"
+    ],
+    "Affiliation": "UA Southwest Center",
+    "Year": 2022,
+    "Email": "rreineke@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Academic Advisory",
+    "Product": "Experiential Learning Activities",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.119673,
+    "Longitude": -110.962514,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-10-undergraduate-internship-progr",
+    "ProjectName": "Undergraduate Internship Program, Binational Migration Institue",
+    "ProjectLeads": [
+      "Daniel Martinez"
+    ],
+    "Affiliation": "UA Mexican American Studies",
+    "Year": 2022,
+    "Email": "mada0102@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Speaker Series",
+    "Product": "Binational Migration Institute",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.279186,
+    "Longitude": -110.967968,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-11-amplifying-chicana-soundscapes",
+    "ProjectName": "Amplifying Chicana Soundscapes: Tuning into Gloria Anzaldúa Borderlands / La Frontera",
+    "ProjectLeads": [
+      "Dr. Wanda Alarcon"
+    ],
+    "Affiliation": "UA Gender and Women's Studies",
+    "Year": 2023,
+    "Email": "walarcon@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Research Projects",
+    "Theme": "Chicanx Studies",
+    "Product": "Article, Academic Discussions & Presentations",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.267568,
+    "Longitude": -110.960808,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-12-asylum-and-humanitarianism-alo",
+    "ProjectName": "Asylum and Humanitarianism Along the Arizona Border",
+    "ProjectLeads": [
+      "Dr. Elizabeth Oglesby",
+      "Dr. Alejandro Nava"
+    ],
+    "Affiliation": "UA Latin American Studies, UA Religious Studies",
+    "Year": 2023,
+    "Email": "eoglesby@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Research Projects",
+    "Theme": "Migration and Human Rights",
+    "Product": "Article, Academic Discussions & Presentations",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.26608,
+    "Longitude": -110.961349,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-13-borderland-migrations-and-meta",
+    "ProjectName": "Borderland Migrations and Metaphors",
+    "ProjectLeads": [
+      "Sama Alshaibi"
+    ],
+    "Affiliation": "UA College of Fine Arts",
+    "Year": 2024,
+    "Email": "alshaibi@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Research Projects",
+    "Theme": "Place and Identity",
+    "Product": "Podcast",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.17308,
+    "Longitude": -110.967343,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-14-por-qué-no-me-creen:-elevating",
+    "ProjectName": "Por qué no me creen: Elevating the overlooked cultural-linguistic wealth of the borderlands",
+    "ProjectLeads": [
+      "Dr. Genesis Arizmendi"
+    ],
+    "Affiliation": "UA Speech, Language & Hearing Sciences and UA Cognitive Science",
+    "Year": 2024,
+    "Email": "genesis@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Research Projects",
+    "Theme": "Language",
+    "Product": "Article, Academic Discussions & Presentations",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.213172,
+    "Longitude": -110.914141,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-15-de-aquí-y-de-allá:-the-cultura",
+    "ProjectName": "De Aquí y De Allá: The Cultural Politics of Race, Belonging, and Community in the US/Mexico Borderlands",
+    "ProjectLeads": [
+      "Dr. Maurice Magana"
+    ],
+    "Affiliation": "UC Davis, Chicana/o/x studies",
+    "Year": 2024,
+    "Email": "mrmagana@ucdavis.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Research Projects",
+    "Theme": "Place and Identity",
+    "Product": "Article, Workshops",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.254013,
+    "Longitude": -110.962221,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-16-membrana-semipermeable---data,",
+    "ProjectName": "Membrana Semipermeable - Data, the HIV/AIDS crisis and the US-Mexico border",
+    "ProjectLeads": [
+      "Marcos Serafim"
+    ],
+    "Affiliation": "UA College of Fine Arts",
+    "Year": 2024,
+    "Email": "serafim@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Research Projects",
+    "Theme": "Place and Identity",
+    "Product": "Article, Academic Discussions & Presentations",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.143578,
+    "Longitude": -110.998506,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-17-botiquín-fronterizo",
+    "ProjectName": "Botiquín Fronterizo",
+    "ProjectLeads": [
+      "Dr. Gabriela Valdez",
+      "Dr. Rebecca Crocker"
+    ],
+    "Affiliation": "UA Global Health, UA Education",
+    "Year": 2024,
+    "Email": "gvaldez@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Research Projects",
+    "Theme": "Public Health",
+    "Product": "Article, Academic Discussions & Presentations",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.113379,
+    "Longitude": -110.930401,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-18-forenisic-citenzhip-in-the-bor",
+    "ProjectName": "Forenisic Citenzhip in the Borderlands",
+    "ProjectLeads": [
+      "Robin Reineke"
+    ],
+    "Affiliation": "UA Southwest Center",
+    "Year": 2021,
+    "Email": "rreineke@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Research Projects",
+    "Theme": "Migration and Human Rights",
+    "Product": "Article",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.133794,
+    "Longitude": -110.953619,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-19-online-collaboration-and-acade",
+    "ProjectName": "Online Collaboration and Academic Exchange in U.S.-Mexico Border Communities",
+    "ProjectLeads": [
+      "Carmen King-Ramirez"
+    ],
+    "Affiliation": "UA College of Humanities",
+    "Year": 2021,
+    "Email": "carmenking@arizona.edu",
+    "ImageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-02/Carmen-Professional-Picture-2-2023.JPG",
+    "ProjectCategory": "Research Projects",
+    "Theme": "Higher Education",
+    "Product": "Article",
+    "Location": "Tucson",
+    "DescriptionShort": "Dr. Carmen King-Ramirez co-designs binational online learning that centers equity for borderland students.",
+    "DescriptionLong": "Carmen King-Ramirez leads Collaborative Online International Learning (COIL) projects connecting classrooms in Arizona and Mexico. Her research offers practical strategies for navigating academic culture, language justice, and care across digital divides in the borderlands.",
+    "Latitude": 32.236329,
+    "Longitude": -110.805965,
+    "Bio": null,
+    "Artworks": [
+      {
+        "title": "Virtual Exchange Classroom",
+        "description": "COIL partners meet online to co-design assignments bridging students in Arizona and Sonora.",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-02/Carmen-Professional-Picture-2-2023.JPG"
+      },
+      {
+        "title": "Portrait: Carmen King-Ramirez",
+        "description": "Applied linguist Carmen King-Ramirez designs equitable virtual exchanges for borderland students.",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-03/Carmen-King-Ramirez-Headshot.jpg"
+      }
+    ],
+    "Music": [],
+    "Research": [
+      {
+        "title": "Collaborative Online International Learning (COIL)",
+        "description": "Guides educators through intercultural pedagogy and shared assignments between University of Arizona and Sonoran partners.",
+        "link": "https://confluencenter.arizona.edu/sites/default/files/2025-03/Foreign-Language-Annals-2020-King-Ramirez-Influences-of-academic-culture-in-Collaborative-Online-International-1.pdf"
+      }
+    ],
+    "Outcomes": [
+      {
+        "outcomeType": "Academic article",
+        "outcomeTitle": "Influences of academic culture in Collaborative Online International Learning (COIL): Differences in Mexican and U.S. students' reported experiences",
+        "outcomeSummary": "",
+        "outcomeLink": ""
+      },
+      {
+        "activityTitle": "",
+        "mediaType": "Article",
+        "mediaTitle": "",
+        "mediaSummary": "",
+        "mediaUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-03/Foreign-Language-Annals-2020-King-Ramirez-Influences-of-academic-culture-in-Collaborative-Online-International-1.pdf"
+      }
+    ],
+    "HasArtwork": true,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-20-digital-humanities,-flood-just",
+    "ProjectName": "Digital Humanities, Flood Justice, and the US-Mexico Borderland",
+    "ProjectLeads": [
+      "Lucas Belury"
+    ],
+    "Affiliation": "UA School of Geography, Development and Environment",
+    "Year": 2023,
+    "Email": "lbelury@arizona.edu",
+    "ImageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-03/Lucas-Belury-Headshot.jpg",
+    "ProjectCategory": "Research Projects",
+    "Theme": "Environmental Justice",
+    "Product": "Article, Academic Discussions & Presentations",
+    "Location": "Nogales, AZ",
+    "DescriptionShort": "Lucas Belury documents flood injustice through bilingual storytelling in Nogales and along the Rio Grande.",
+    "DescriptionLong": "Geographer Lucas Belury combines oral histories, hydrological research, and podcasting to expose how border infrastructure deepens flood risks. His bilingual series Flood Justice en las Fronteras uplifts community strategies for resilience across the Nogales watershed and Rio Grande delta.",
+    "Latitude": 32.107326,
+    "Longitude": -110.984452,
+    "Bio": null,
+    "Artworks": [
+      {
+        "title": "Portrait: Lucas Belury",
+        "description": "Podcaster and researcher Lucas Belury records stories of watershed justice in the borderlands.",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2023-05/Belury%20Lucas%20Headshot%20square.jpg"
+      }
+    ],
+    "Music": [
+      {
+        "title": "Flood Justice Podcast Episode 32",
+        "description": "Bilingual storytelling from the Rio Grande/Rio Bravo delta exploring border flood histories.",
+        "mediaUrl": "https://soundcloud.com/journal_southwest/flood-justice-in-the-us-mexico-borderlands-matamorosbrownsville-in-english-1"
+      }
+    ],
+    "Research": [
+      {
+        "title": "Nogales Watershed Field Notes",
+        "description": "Community mapping and hydrological data collected with Ambos Nogales partners.",
+        "link": "https://lucasbelury.com/community-engagement/podcast"
+      }
+    ],
+    "Outcomes": [
+      {
+        "activityTitle": "",
+        "mediaType": "Podcast",
+        "mediaTitle": "Episode 32 - Flood Justice in the US-Mexico Borderlands: Rio Grande/Rio Bravo Delta (English Version)",
+        "mediaSummary": "I created a podcast series called Flood Justice en las Fronteras - a bilingual (English/Spanish) podcast on flooding and injusticia in the US-Mexico border. You can find episode's #31, 32, 37 at the Journal of the Southwest Radio.",
+  "mediaUrl": "https://soundcloud.com/journal_southwest/flood-justice-in-the-us-mexico-borderlands-matamorosbrownsville-in-english-1",
+        "embededContent": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1822005825&color=ff5500\"></iframe><div style=\"font-size: 10px; color: var(--text-muted);line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/journal_southwest\" title=\"Journal of the Southwest Radio\" target=\"_blank\" style=\"color: var(--text-muted); text-decoration: none;\">Journal of the Southwest Radio</a> · <a href=\"https://soundcloud.com/journal_southwest/flood-justice-in-the-us-mexico-borderlands-matamorosbrownsville-in-english-1\" title=\"Flood Justice in the US-Mexico Borderlands: Rio Grande/Rio Bravo Delta (In English)\" target=\"_blank\" style=\"color: var(--text-muted); text-decoration: none;\">Flood Justice in the US-Mexico Borderlands: Rio Grande/Rio Bravo Delta (In English)</a></div>",
+  "Socials and Website": "https://lucasbelury.com/community-engagement/podcast"
+      }
+    ],
+    "HasArtwork": true,
+    "HasMusic": true,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-21-a-place-on-morley-avenue",
+    "ProjectName": "A Place On Morley Avenue",
+    "ProjectLeads": [
+      "Linda Choi"
+    ],
+    "Affiliation": "UA School of Geography, Development and Environment",
+    "Year": 2023,
+    "Email": "lchoi@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Research Projects",
+    "Theme": "Place and Identity",
+    "Product": "Multimedia",
+    "Location": "Nogales, AZ",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.183273,
+    "Longitude": -110.831522,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-22-ghosts-and-shadows",
+    "ProjectName": "Ghosts and Shadows",
+    "ProjectLeads": [
+      "Nathan Cordova"
+    ],
+    "Affiliation": "UA College of Fine Arts",
+    "Year": 2023,
+    "Email": "nathancordova@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Art-Based Projects",
+    "Theme": "Place and Identity",
+    "Product": "Multimedia",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.254727,
+    "Longitude": -110.841002,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": true,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "art"
+    ]
+  },
+  {
+    "id": "project-23-consumiendo-identidad:-documen",
+    "ProjectName": "Consumiendo Identidad: documentation and cultural mapping of Mercados in the Southwest borderlands",
+    "ProjectLeads": [
+      "Jazmin Gonzalez"
+    ],
+    "Affiliation": "UA Public Health Policy and Management",
+    "Year": 2023,
+    "Email": "jazminpulido@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Research Projects",
+    "Theme": "Place and Identity, Public Health",
+    "Product": "Article",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.237181,
+    "Longitude": -110.909252,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-24-the-poetics-of-migrations",
+    "ProjectName": "The poetics of migrations",
+    "ProjectLeads": [
+      "Jorge Manzanilla"
+    ],
+    "Affiliation": "UA College of Humanities",
+    "Year": 2023,
+    "Email": "manzanillaperez@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Art-Based Projects",
+    "Theme": "Place and Identity",
+    "Product": "Poetry, Academic Discussions & Presentations",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.27448,
+    "Longitude": -110.815354,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": true,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "art"
+    ]
+  },
+  {
+    "id": "project-25-running-\"raza\":-defining-and-p",
+    "ProjectName": "Running \"Raza\": Defining and Performing Racialized Identity Inside Borderlands Prisons",
+    "ProjectLeads": [
+      "Enrique Olivares-Pelayo"
+    ],
+    "Affiliation": "UA School of Geography, Development and Environment",
+    "Year": 2023,
+  "Email": "olivarespelayo@arizona.edu",
+  "ImageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-03/Enrique-Olivares-Pelayo-Headshot.jpg",
+    "ProjectCategory": "Research Projects",
+    "Theme": "Place and Identity",
+    "Product": "Article, Academic Discussions & Presentations",
+    "Location": "Tucson",
+  "DescriptionShort": "Enrique Olivares-Pelayo maps how raza identity and care take shape inside Arizona prisons.",
+  "DescriptionLong": "Geographer Enrique Olivares-Pelayo documents the lived geographies of incarcerated people across Arizona. His research and podcast Carceral Geographies unpack how raza identity, informal economies, and mutual aid networks sustain people navigating the prison system.",
+    "Latitude": 32.124266,
+    "Longitude": -110.83874,
+    "Bio": null,
+    "Artworks": [
+      {
+        "title": "Portrait: Enrique Olivares-Pelayo",
+        "description": "Researcher Enrique Olivares-Pelayo centers voices of incarcerated people in borderland prisons.",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-03/Enrique-Olivares-Pelayo-Headshot.jpg"
+      }
+    ],
+    "Music": [
+      {
+        "title": "Carceral Geographies Podcast",
+        "description": "Enrique discusses raza identity, mutual aid, and everyday life within Arizona's prisons.",
+        "mediaUrl": "https://soundcloud.com/journal_southwest/carceral-geographies"
+      }
+    ],
+    "Research": [
+      {
+        "title": "Carceral Geographies Field Notes",
+        "description": "Maps overlapping prison geographies, economies of care, and raza identity across Arizona facilities.",
+        "link": "https://journalofthesouthwest.org/podcast"
+      }
+    ],
+    "Outcomes": [
+      {
+        "outcomeType": "Podcast",
+        "outcomeTitle": "Enrique Olivares-Pelayo: Carceral Geographies",
+        "outcomeSummary": "The final product of Enrique's research was an integral part of his advancement to doctoral candidacy within the SGDE.",
+        "outcomeLink": "https://soundcloud.com/journal_southwest/carceral-geographies",
+        "reflection": "I am very excited to take the research that I did as a Fronteridades Fellow and use it to \npublish a peer-reviewed article as part of my dissertation. In addition, the insights that I\ngained as I traveled throughout the state of Arizona to the various prisons where I was\nincarcerated allowed me to map overlapping but distinct aspects of life within Arizona's\nprisons. My future work will include an analysis of the diverse economies and economies\nof care found within prisoner social organizations, as well as an application of a\ngeographical theory called “flat ontology,” that moves away from spatial thinking reliant\non scale, emphasizing instead the relational and contextual nature of all human\ninteractions. I am grateful for the opportunity to be a part of this research community, the\nsupport of the Confluence Center has been invaluable to my graduate education."
+      },
+      {
+        "activityTitle": "",
+        "mediaType": "Podcast",
+        "mediaTitle": "Enrique Olivares-Pelayo: Carceral Geographies",
+        "mediaSummary": "",
+        "mediaUrl": "https://soundcloud.com/journal_southwest/carceral-geographies",
+        "embededContent": "<iframe width='100%' height='166' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2020440361&color=ff5500'></iframe><div style='font-size: 10px; color: var(--text-muted);line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;'><a href='https://soundcloud.com/journal_southwest' title='Journal of the Southwest Radio' target='_blank' style='color: var(--text-muted); text-decoration: none;'>Journal of the Southwest Radio</a> · <a href='https://soundcloud.com/journal_southwest/carceral-geographies' title='Enrique Olivares-Pelayo: Carceral Geographies' target='_blank' style='color: var(--text-muted); text-decoration: none;'>Enrique Olivares-Pelayo: Carceral Geographies</a></div>"
+      }
+    ],
+  "HasArtwork": true,
+  "HasMusic": true,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-26-migrant-shelters-as-spaces-of-",
+    "ProjectName": "Migrant Shelters as Spaces of Pedagogy: Understanding Educational Practices in Migrant Shelters at the U.S./Mexico Border",
+    "ProjectLeads": [
+      "Juanita Sandoval"
+    ],
+    "Affiliation": "UA College of Education",
+    "Year": 2023,
+    "Email": "juanitasandoval@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Research Projects",
+    "Theme": "Migration and Human Rights",
+    "Product": "Article, Academic Discussions & Presentations",
+    "Location": "Sasabe, AZ",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.103931,
+    "Longitude": -110.942278,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-27-hybridities:-languages-and-ide",
+    "ProjectName": "Hybridities: Languages and Identities of Chinese Americans in the Borderlands Amid the COVID-19 Pandemic",
+    "ProjectLeads": [
+      "Linfei Yi"
+    ],
+    "Affiliation": "UA College of Humanities",
+    "Year": 2023,
+    "Email": "yil@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Research Projects",
+    "Theme": "Language",
+    "Product": "Article, Academic Discussions & Presentations",
+    "Location": "Nogales, AZ",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.189394,
+    "Longitude": -110.926003,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-28-borderland-masks",
+    "ProjectName": "Borderland Masks",
+    "ProjectLeads": [
+      "Andres Caballero"
+    ],
+    "Affiliation": "UA College of Fine Arts",
+    "Year": 2024,
+    "Email": "andrescaballero@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Art-Based Projects",
+    "Theme": "Place and Identity",
+    "Product": "Photography",
+    "Location": "Nogales, AZ",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.16646,
+    "Longitude": -110.994761,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": true,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "art"
+    ]
+  },
+  {
+    "id": "project-29-native-americans-&-the-border-",
+    "ProjectName": "Native Americans & The Border Wall",
+    "ProjectLeads": [
+      "Natasha Cortinovis"
+    ],
+    "Affiliation": "UA School of Journalism",
+    "Year": 2024,
+  "Email": "tashapipiska@arizona.edu",
+  "ImageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-03/Natasha-Cortinovis-Headshot.jpg",
+    "ProjectCategory": "Research Projects",
+    "Theme": "Place and Identity",
+    "Product": "Website, Articles",
+    "Location": "Tohono O'odham Nation",
+  "DescriptionShort": "Natasha Cortinovis documents how the border wall reshapes O'odham homelands, language, and sacred sites.",
+  "DescriptionLong": "Journalist Natasha Cortinovis follows Tohono O'odham families navigating a militarized border that cuts through community gathering spaces and ancestral lands. Her multimedia documentary uplifts O'odham voices, language revitalization efforts, and everyday acts of care along the wall.",
+    "Latitude": 32.258908,
+    "Longitude": -110.800141,
+    "Bio": null,
+    "Artworks": [
+      {
+        "title": "Portrait: Natasha Cortinovis",
+        "description": "Documentary filmmaker Natasha Cortinovis captures stories from Tohono O'odham communities split by the border wall.",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-03/Natasha-Cortinovis-Headshot.jpg"
+      },
+      {
+        "title": "Documentary Production Still",
+        "description": "Filming with O'odham families at a border wall meeting point.",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-03/native-border-wall-still.jpg"
+      }
+    ],
+    "Music": [],
+    "Research": [
+      {
+        "title": "Native Americans & The Border Wall",
+        "description": "Web features, photo essays, and short films documenting Tohono O'odham border experiences.",
+        "link": "https://confluencenter.arizona.edu/fronteridades/fronteridades-fellows/graduate-fellows/graduate-fellows-2024"
+      }
+    ],
+    "Outcomes": [
+      {
+        "outcomeType": "Documentary",
+        "outcomeTitle": "Native Americans & The Border Wall",
+        "outcomeSummary": "The militarized structure harms some of the richest wildlife communities and oldest human settlements in North America: the wall cuts through the tribal homelands of at least seven Native American Nations in the United States, and several indigenous peoples in Mexico, separating tribe members from their relatives, sacred sites, and natural environments. Every day since the wall has been standing, people on both sides have been traveling to meet, talk, eat, touch hands, and even kiss through the openings in the iron bars.",
+        "outcomeLink": "https://confluencenter.arizona.edu/fronteridades/fronteridades-fellows/graduate-fellows/graduate-fellows-2024",
+        "reflection": "I've been working on a portfolio of stories that feature the Tohono O'odham people of Southern Arizona and Northwestern Mexico. My pieces of storytelling are a humble endeavor to shed more light on the legacy of the Tohono O'odham people. They seek to explore their efforts to revitalize their unique language, their deep-rooted cultural practices, and their ongoing struggles in the context of divisions along their southern borders. By delving into the lives of the Tohono O'odham, I hope to honor their past and present in my own way, and to contribute to a broader understanding and appreciation of their existence."
+      },
+      {
+        "activityTitle": "",
+        "mediaType": "Video",
+        "mediaTitle": "Native Americans & The Border Wall",
+        "mediaSummary": "“Native Americans & The Border Wall” wishes to be a 15-20 minutes documentary that investigates the social, cultural, human, and environmental harm that the construction of the physical border wall has brought to the native peoples' lives and homelands along the entire Southwest Border.",
+        "mediaUrl": "https://confluencenter.arizona.edu/fronteridades/fronteridades-fellows/graduate-fellows/graduate-fellows-2024",
+        "embededContent": ""
+      }
+    ],
+  "HasArtwork": true,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-30-birthworkers-in-the-borderland",
+    "ProjectName": "Birthworkers in the Borderlands: Understanding how the Cihuapactli Collective Reshapes Reproductive Landscapes",
+    "ProjectLeads": [
+      "Deyanira Ibarra"
+    ],
+    "Affiliation": "UA School of Anthropology",
+    "Year": 2024,
+    "Email": "dsibarra@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Research Projects",
+    "Theme": "Public Health",
+    "Product": "Article, Academic Discussions & Presentations",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.272771,
+    "Longitude": -110.810071,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-31-visualizing-surveillance-infra",
+    "ProjectName": "Visualizing Surveillance Infrastructure in the U.S.-Mexico Borderlands",
+    "ProjectLeads": [
+      "Dugan Meyer"
+    ],
+    "Affiliation": "UA School of Geography, Development and Environment",
+    "Year": 2024,
+    "Email": "duganmeyer@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Research Projects",
+    "Theme": "Migration and Human Rights",
+    "Product": "Article, Academic Discussions & Presentations, Photogrphy",
+    "Location": "Nogales, AZ",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.148531,
+    "Longitude": -110.962842,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-32-climate-migration-at-the-borde",
+    "ProjectName": "Climate Migration at the Borderlands: El Impacto de Desastres.",
+    "ProjectLeads": [
+      "Alexandra Mora Medina"
+    ],
+    "Affiliation": "UA School of Journalism",
+    "Year": 2024,
+    "Email": "amoramedina@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Research Projects",
+    "Theme": "Environmental Justice",
+    "Product": "Website, Articles",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.210631,
+    "Longitude": -110.95565,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-33-feminist-pedagogy-of-global-so",
+    "ProjectName": "Feminist Pedagogy of Global South to North Migration",
+    "ProjectLeads": [
+      "Sanjukta Sarkar"
+    ],
+    "Affiliation": "UA College of Education",
+    "Year": 2024,
+    "Email": "sanjuktasarkar@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Research Projects",
+    "Theme": "Higher Education",
+    "Product": "Article, Academic Discussions & Presentations",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.12508,
+    "Longitude": -110.817248,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-34-mexican-migrants-return-south:",
+    "ProjectName": "Mexican Migrants Return South: Transborder Testimonials of Resilience and Adaptation from New Arrival Community in Mexico City",
+    "ProjectLeads": [
+      "Luis Carrion"
+    ],
+    "Affiliation": "UA Latin American Studies",
+    "Year": 2021,
+    "Email": "lcarrion@email.arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Research Projects",
+    "Theme": "Migration and Human Rights",
+    "Product": "Multimedia",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.170066,
+    "Longitude": -110.936902,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-35-belonging-on-the-frontier:-an-",
+    "ProjectName": "Belonging on the Frontier: An Asian American Immigrant Experience on the Borderlands",
+    "ProjectLeads": [
+      "Linda Choi"
+    ],
+    "Affiliation": "UA School of Geography, Development and Environment",
+    "Year": 2021,
+    "Email": "lchoi@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Research Projects",
+    "Theme": "Place and Identity",
+    "Product": "Article, Academic Discussions & Presentations",
+    "Location": "Nogales, AZ",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.196475,
+    "Longitude": -110.881025,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-36-pendular-borders:-a-work-on-da",
+    "ProjectName": "Pendular Borders: A Work on Dance and Female Border-Crossing",
+    "ProjectLeads": [
+      "Gloria Flores"
+    ],
+    "Affiliation": "UA College of Humanities",
+    "Year": 2021,
+    "Email": "gflor127@email.arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Art-Based Projects",
+    "Theme": "Place and Identity",
+    "Product": "Theater & Other Live Performances",
+    "Location": "Nogales, AZ",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.289308,
+    "Longitude": -110.866096,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": true,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "art"
+    ]
+  },
+  {
+    "id": "project-37-creating-emancipatory-spaces-t",
+    "ProjectName": "Creating Emancipatory Spaces through Arts-Based Activities with Migrants along the U.S.-Mexico Border and Beyond",
+    "ProjectLeads": [
+      "Elizabeth Gaxiola"
+    ],
+    "Affiliation": "UA College of Education",
+    "Year": 2021,
+  "Email": "egaxiola@arizona.edu",
+  "ImageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-01/waterfall.jpg",
+    "ProjectCategory": "Research Projects",
+    "Theme": "Higher Education, Migration and Human Rights",
+    "Product": "Article, Academic Discussions & Presentations, Art Workshops",
+    "Location": "Tucson",
+    "DescriptionShort": "Arts-based workshops for migrants exploring themes of borders, migration, identity, and healing through painting and poetry.",
+    "DescriptionLong": "This project creates emancipatory spaces through arts-based activities with migrants along the U.S.-Mexico border. Through painting and poetry workshops, participants express their experiences, dreams, and reflections on migration, borders, family separation, and identity. The artworks and poems document powerful narratives of resilience, hope, and trauma-informed healing.",
+    "Latitude": 32.100774,
+    "Longitude": -110.98041,
+    "Bio": null,
+    "Artworks": [
+      {
+        "title": "La cascada de agua azul (The Blue Waterfall)",
+        "description": "This painting was created by a female from Mexico. She expressed 'Me sentí feliz con la actividad y la convivencia. Me sentí feliz cuando pintaba, con muchísima paz al trasmitir liberación sobre un paisaje. Me ayudó en mi bienestar en expresar mi sencillez sobre el dibujo. Cuando pintaba, pensé en mi mamá porque siempre deseo estar en un lugar tranquilo antes de fallecer' [I felt happy with the activity and the convivencia. I felt happy when I painted, with a lot of peace when transmitting liberation over a landscape. It helped me in my well-being to express my simplicity about the drawing. When I was painting, I thought about my mother because she always wanted to be in a tranquil place before she passed away].",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-01/waterfall.jpg"
+      },
+      {
+        "title": "El atardecer (The Sunset)",
+        "description": "This painting was created by a man from Mexico, he expressed: 'Me sentí muy bien al realizar la pintura. Las emociones que sentí fue paz, tranquilidad, y emoción. La actividad me ayudó mucho en mi bienestar. Cómodo porque dejas de pensar un rato por lo que estas pasando. Pensé en la playa, la tranquilidad de estar aquí.' [I felt very good when creating the painting. The emotions I felt were peace, tranquility, and excitement. The activity helped me a lot in my well-being. Comfortable because you stop thinking about what you're going through for a while. I thought about the tranquility of being here on the beach].",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-01/sunset.jpg"
+      },
+      {
+        "title": "El movimiento (The Movement)",
+        "description": "A Honduran woman depicted a brightly colored bus. When she shared her drawing, she explained that if the border would not exist as it does now, 'No habría vigilancia' [there would be no surveillance]. She created a bus which symbolized movimiento (movement) for her. She envisioned the land where the border once stood as free from physical and human barriers, envisioning people walking and riding buses freely, without restrictions.",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-01/movement.jpg"
+      },
+      {
+        "title": "Ropa roja (Red Clothing)",
+        "description": "A woman from Mexico drew a path free of obstruction, a representation of a world without borders. She included two individuals wearing red clothing, symbolizing freedom of movement, as they no longer needed ropa de camuflaje (camouflage clothing), to avoid detection. This highlights the challenges migrants encounter as they try to navigate the presence of border officials. She explained that the individuals wore red clothing to signify their newfound freedom.",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-01/redclothing.png"
+      },
+      {
+        "title": "El desierto y la soledad (The Desert and Loneliness)",
+        "description": "A man from Mexico describes his painting as symbolizing the desert and the deep loneliness experienced by migrants on their journey towards safety and a better path and having to leave their loved ones behind. The desert represents the difficult and dangerous path that migrants must travel. He emphasized the word loneliness, conveying a sense of solitude leaving loved ones. He mentioned: 'Me sentí bien al realizar esta actividad. Sentí alegría en que me ayudó a pensar y sentirme satisfecho con las decisiones tomadas.'",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-01/desertandloneliness.png"
+      },
+      {
+        "title": "Nunca se nos va olvidar (We Will Never Forget)",
+        "description": "A participant shared a deeply traumatic experience of cartel violence in Mexico. She wrote: 'Lo que nosotros vivimos en carne propia, fue que en mi casa levantaron a mi tío y lo descuartizaron en pedacitos...y eso nunca se nos va olvidar. Y luego nos vinimos por amenazas de muerte.' [What we experienced firsthand was that in my house they picked up my uncle and dismembered him...and that, we will never forget. And then we came because of death threats.] Her artwork documents the urgent need for awareness about the dangers of migration and systemic change.",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-01/neverforget.jpg"
+      },
+      {
+        "title": "Desplazamiento (Displacement)",
+        "description": "This artwork was created by a woman from Mexico who depicts an impressive scene of her community rushing to the bus station during displacement by the cartel and police. She and her family were suddenly forced to leave their home and could not gather much of their personal belongings. The buses symbolize their means of escape. She indicated that this activity served as a therapeutic outlet for her to talk about the emotions of fear and sadness.",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-01/displacement.png"
+      },
+      {
+        "title": "Abandonado (Abandoned)",
+        "description": "This art piece was created by a man from El Salvador. He shared that he was beaten by gang members, stripped of everything he owned, and left stranded in the desert. In his artwork, he depicted himself within the hostile landscape of the desert, symbolizing his isolation and difficulty. He expressed: 'Me abandonaron como un animal. Como si no valiera nada. Como basura.' [They abandoned me like an animal. Like I was worthless. Like trash.] His piece sheds light on his resilience and survival.",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-01/abondoned.jpg"
+      },
+      {
+        "title": "La cascada de agua azul",
+        "description": "This painting was created by a female from Mexico. She expressed “Me sentí feliz con la actividad y la convivencia. Me sentí feliz cuando pintaba, con muchísima paz al trasmitir liberación sobre un paisaje. Me ayudó en mi bienestar en expresar mi sencillez sobre el dibujo. Cuando pintaba, pensé en mi mamá porque siempre deseo estar en un lugar tranquilo antes de fallecer” [I felt happy with the activity and the convivencia. I felt happy when I painted, with a lot of peace when transmitting liberation over a landscape. It helped me in my well-being to express my simplicity about the drawing. When I was painting, I thought about my mother because she always wanted to be in a tranquil place before she passed away].",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-01/waterfall.jpg"
+      },
+      {
+        "title": "El atardecer (The Sunset)",
+        "description": "This painting was created by a man from Mexico, he expressed: “Me sentí muy bien al realizar la pintura. Las emociones que sentí fue paz, tranquilidad, y emoción. La actividad me ayudó mucho en mi bienestar. Cómodo porque dejas de pensar un rato por lo que estas pasando. Pensé en la playa, la tranquilidad de estar aquí. [I felt very good when creating the painting. The emotions I felt were peace, tranquility, and excitement. The activity helped me a lot in my well-being. Comfortable because you stop thinking about what you're going through for a while. I thought about the tranquility of being here on the beach].",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-01/sunset.jpg"
+      },
+      {
+        "title": "El movimiento: The movement",
+        "description": "A Honduran woman depicted a brightly colored bus. When she shared her drawing, she explained that if the border would not exist as it does now, “No habría vigilancia” [there would be no surveillance]. She created a bus which symbolized movimiento (movement) for her. She envisioned the land where the border once stood as free from physical and human barriers, envisioning people walking and riding buses freely, without restrictions. She expressed that both passengers and the driver would experience great happiness in this scenario, free of borders. She mentioned that creating this piece brought her happiness and encouraged her to think positively about life. Additionally, she shared thoughts about her son, who had traveled as an unaccompanied minor to the U.S., expressing her hope for their reunion soon.",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-01/movement.jpg"
+      },
+      {
+        "title": "Ropa roja (Red clothing)",
+        "description": "A woman from Mexico drew a path free of obstruction, a representation of a world without borders. She included two individuals wearing red clothing, symbolizing freedom of movement, as they no longer needed ropa de camuflaje (camouflage clothing), to avoid detection. This highlights the challenges migrants encounter as they try to navigate the presence of border officials. The area where the border once stood was depicted with homes, trees, mountains, buildings, automobiles, a blue sky, and the sun, illustrating a vibrant and peaceful environment. She explained that the individuals wore red clothing to signify their newfound freedom. She mentioned that this activity prompted her to reflect on her journey to the shelter and how imagining a world without borders provided her alivio psicológico (psychological relief). This highlights the healing value of creative expression in processing emotions and experiences related to migration. She also expressed compassion for others worldwide who are separated due to physical barriers. This reflects an understanding of the interconnection of migration issues globally, as many migrants have referred to others as nuestra familia migrante (our migrant family).",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-01/redclothing.png"
+      },
+      {
+        "title": "El desierto y la soledad (The desert and loneliness)",
+        "description": "A man from Mexico describes his painting as symbolizing the desert and the deep loneliness experienced by migrants on their journey towards safety and a better path and having to leave their loved ones behind. The desert represents the difficult and dangerous path that migrants must travel to seek better opportunities in “El Norte” [the north]. He emphasized the word loneliness, conveying a sense of solitude leaving loved ones. This emphasizes the emotional impact of loneliness, highlighting the psychological suffering that migrants undergo. He devoted a great amount of time to work on his piece, displaying intense focus and appearing deeply reflective throughout the process of creating his painting. He mentioned the following upon completion of his artwork: “Me sentí bien al realizar esta actividad. Sentí alegría en que me ayudó a pensar y sentirme satisfecho con las decisiones tomadas.” [I felt good doing this activity. I felt joy. It helped me think and feel satisfied with the decisions I made (regarding his migration)].",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-01/desertandloneliness.png"
+      },
+      {
+        "title": "Nunca se nos va olvidar (We will never forget)",
+        "description": "During the sharing phase of this arts-based activity, most participants remained for our convivencia, however two chose to depart early. One participant, who had maintained a very quiet demeanor throughout the art creation process, was not able to share her art. She confided in me that it was difficult for her to communicate her experiences. She described her artwork to me and asked that I share it with the group once she left the room. In figure 33, she described the horrifying acts committed by the cartel against her uncle, witnessed by both her and her family. She wrote: “Lo que nosotros vivimos en carne propia, fue que en mi casa levantaron a mi tío y lo descuartizaron en pedacitos, le cortaron los pies, manos, orejas lo hicieron cachitos y nosotros estábamos con vida por un milagro, por obra de Dios y eso nunca se nos va olvidar. Y luego nos vinimos por amenazas de muerte a mi persona y contra mis hijos por narcos. Y tengo mucho miedo. ?Por qué el gobierno no hace nada? En todo Mexico se vive la corrupción [What we experienced firsthand was that in my house they picked up my uncle and dismembered him into little pieces, they cut off his feet, hands, and ears, cut him into little pieces, and we were alive by a miracle through the work of God and that, we will never forget. And then we came because of death threats against me and against my children. And I'm very afraid. In all of Mexico, we live with corruption. Why doesn't the government do anything?].",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-01/neverforget.jpg"
+      },
+      {
+        "title": "Desplazamiento (Displacement)",
+        "description": "This artwork was created by a woman from Mexico who depicts an impressive scene of her community rushing to the bus station. She mentioned that these are families of all ages rushing in urgency to the bus station during displacement by the cartel and police. She mentioned this occurred to her and her family, who were suddenly forced to leave her home and could not gather much of their personal belongings. You can see the buses, symbolizing their means of escape, painted atop of the creative piece. She indicated that this activity served as a therapeutic outlet for her to talk about the emotions of fear and sadness she felt having to abruptly depart from her community. This painting sheds light on the realities of the chaos, desperation, and anguish experienced by those impacted by displacement. It also conveys that displacement affects individuals of all ages, as depicted by families of all ages in this creative piece.",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-01/displacement.png"
+      },
+      {
+        "title": "Abandonado (Abandoned)",
+        "description": "His art piece was created by a man from El Salvador. He shared that his mother, who had passed away in his homeland, was the only one who supported his gender identity. His father and brother did not accept this. He described a disturbing experience of being beaten by members of the Mara Salvatrucha gang in El Salvador, resulting in visible injuries, including broken teeth and wounds on his stomach, which he revealed by lifting his shirt. He further shared that the guías stripped him of everything he owned, leaving him stranded in the desert without food, water, or any belongings. He added that for two painful days, he endured the harsh desert conditions alone and later surrendered himself to border patrol.",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-01/abondoned.jpg"
+      }
+    ],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [
+      {
+        "outcomeType": "Dissertation",
+        "outcomeTitle": "La Casa de Papel: El Ruido De Tus Voces",
+        "outcomeSummary": "The aim of this study was to explore if creative expression.",
+        "outcomeLink": "https://www.proquest.com/openview/3d2feabea337dbe306d0fc311303c213"
+      }
+    ],
+    "Poems": [
+      {
+        "title": "Mi nombre (My Name)",
+        "text": "Esmeralda piedra preciosa y brillante\nque significa el poder, la eterna\njuventud y se asocia al éxito y\na la abundancia. Su color brillante\ngenera sensaciones de tranquilidad\ny paz la cual atrae la buena energía.",
+        "author": "",
+        "englishTranslation": "Esmeralda precious and brilliant stone which means power, eternal \nyouth and is associated with success and to abundance. Its bright color \ngenerates feelings of tranquility\nand peace which attracts good energy."
+      },
+      {
+        "title": "FIND THE RIGHT TITLE!",
+        "text": "Soy una mujer que no depende de un hombre para ser\nfeliz, ni quedarme en casa ver mi vida pasar.",
+        "author": "",
+        "englishTranslation": "I am a woman who does not depend on\na man to be happy, nor even staying at\nhome seeing my life pass by.."
+      }
+    ],
+    "HasArtwork": true,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": true,
+    "Tags": [
+      "research",
+      "art",
+      "poetry"
+    ]
+  },
+  {
+    "id": "project-38-changing-the-narrative:-the-im",
+    "ProjectName": "Changing the Narrative: The Impact of the Safe Third Country Agreements on Guatemalan Asylum Seekers",
+    "ProjectLeads": [
+      "Mandy Loader"
+    ],
+    "Affiliation": "UA School of Journalism",
+    "Year": 2021,
+    "Email": "mandyloader@email.arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Research Projects",
+    "Theme": "Migration and Human Rights",
+    "Product": "Article, Academic Discussions & Presentations",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.294487,
+    "Longitude": -110.99104,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-39-beyond-concrete-and-violence:-",
+    "ProjectName": "Beyond Concrete and Violence: The reconfiguring of local dynamics in Nogales Arizona/Sonora borderlands since the early 2000s",
+    "ProjectLeads": [
+      "Mario Macías Ayala"
+    ],
+    "Affiliation": "UA School of Anthropology",
+    "Year": 2021,
+    "Email": "mariomaciasaa@email.arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Research Projects",
+    "Theme": "Migration and Human Rights",
+    "Product": "Article, Academic Discussions & Presentations",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.232191,
+    "Longitude": -110.857763,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-40-everything-was-black-and-yet,-",
+    "ProjectName": "Everything was Black and Yet, it Glowed",
+    "ProjectLeads": [
+      "Mariel Miranda"
+    ],
+    "Affiliation": "UA College of Fine Arts",
+    "Year": 2021,
+    "Email": "marielmira@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Art-Based Projects",
+    "Theme": "Place and Identity",
+    "Product": "Photography",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.192898,
+    "Longitude": -110.920587,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": true,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "art"
+    ]
+  },
+  {
+    "id": "project-41-songs-of-eagles-and-stars",
+    "ProjectName": "Songs of Eagles and Stars",
+    "ProjectLeads": [
+      "Diana Peralta"
+    ],
+    "Affiliation": "UA College of Fine Arts",
+    "Year": 2021,
+    "Email": "dianaperalta@email.arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Art-Based Projects",
+    "Theme": "Place and Identity, Higher Education",
+    "Product": "Music",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.192598,
+    "Longitude": -110.903265,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [
+      {
+        "title": "Songs of Eagles and Stars",
+        "description": "The songs were sung in the two languages (Spanish and English) using the appropriate words for each cultural identity. These videos were edited so we could see images from both countries and the singers and musicians in their own atmospheres.",
+        "mediaUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-02/videoplayback.mp4",
+        "embeddedContent": ""
+      }
+    ],
+    "Research": [],
+    "Outcomes": [
+      {
+        "outcomeType": "Song",
+        "outcomeTitle": "",
+        "outcomeSummary": "The objective was to record two songs carefully chosen after specific research to clearly identify the distinguishing link of the people from the Mexican-American border-zone through time.",
+        "outcomeLink": ""
+      }
+    ],
+    "HasArtwork": true,
+    "HasMusic": true,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "art",
+      "music"
+    ]
+  },
+  {
+    "id": "project-42-cross-border-recovery-and-peda",
+    "ProjectName": "Cross-border Recovery and Pedagogical Approaches to la indita",
+    "ProjectLeads": [
+      "Carmella Scorcia Pacheco"
+    ],
+    "Affiliation": "UA College of Humanities",
+    "Year": 2021,
+    "Email": "cmsp@arizona.edu",
+    "ImageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-03/Carmella-Scorcia-Pacheco-Headshot.jpg",
+    "ProjectCategory": "Art-Based Projects",
+    "Theme": "Place and Identity, Higher Education",
+    "Product": "Music",
+    "Location": "Tucson",
+    "DescriptionShort": "Carmella Scorcia Pacheco revives la indita border ballads through student songwriting and performance.",
+    "DescriptionLong": "Folklorist Carmella Scorcia Pacheco guides students in recovering la indita, a poetic and musical tradition shared across the U.S.-Mexico border. Workshops pair archival research with creative practice, culminating in performances that honor Indigenous and mestizo storytelling.",
+    "Latitude": 32.188685,
+    "Longitude": -110.953241,
+    "Bio": null,
+    "Artworks": [
+      {
+        "title": "Portrait: Carmella Scorcia Pacheco",
+        "description": "Folklorist Carmella Scorcia Pacheco studies and teaches la indita traditions.",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/Scorcia_Pacheco.jpg"
+      },
+      {
+        "title": "Student Indita Showcase",
+        "description": "Students perform their original corridos and inditas in a cross-border celebration.",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-03/ScorciaOutcome2.png"
+      },
+      {
+        "title": "Archival Songbook",
+        "description": "Recovered sheet music from Sonoran and Arizona inditas informs classroom pedagogy.",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-03/ScorciaOutcome3.png"
+      }
+    ],
+    "Music": [
+      {
+        "title": "Cross-border Recovery: La Indita",
+        "description": "Student ensemble performs an original indita composed for the project showcase.",
+    "mediaUrl": "https://www.youtube.com/live/WpmkX7iWQ5Q?si=tacIhsGyOYp1Dzg_&t=1347"
+      }
+    ],
+    "Research": [],
+    "Outcomes": [
+      {
+        "outcomeType": "Art and Poems",
+        "outcomeTitle": "Cross-border Recovery and Pedagogical Approaches to la indita",
+        "outcomeSummary": "A multimodal project included images, text, and audio offered students the opportunity to delve into the poetic form of the corrido and indita while also offering a creative and expressive outlet.",
+    "outcomeLink": "https://www.youtube.com/live/WpmkX7iWQ5Q?si=tacIhsGyOYp1Dzg_&t=1347",
+        "reflection": "The 2021 Fronteridades fellowship enabled me to showcase the creative outlets that expressive culture can offer students in transnational and borderlands contexts. Students often commented that this was their favorite part of the class—composing their very own poetic corridos and inditas. Each one used their poetic voice through the text and, in many cases, through composing their own music. We even had a few performers sing their ballads while playing the guitar! They grappled with the complexities surrounding language, identity, and borderlands landscapes that they called home. Overall, the corridos and inditas worked as a form of poetic and musical testimonio for students. Overall, I am grateful for the opportunity to have worked as a Fronteridades fellow as it has enabled me to form a foundational base for my research. Future projects include developing the work into a peer-reviewed article with an expressive culture and/or folklore Journal such as the Journal of Folklore Research. Thank you to everyone at the Confluencenter for your support and for making this project possible!"
+      }
+    ],
+    "HasArtwork": true,
+    "HasMusic": true,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "art",
+      "music"
+    ]
+  },
+  {
+    "id": "project-43-transnational-voices:-multimod",
+    "ProjectName": "Transnational Voices: Multimodal Narratives From The Borderlands",
+    "ProjectLeads": [
+      "Daniela Torres Cirina"
+    ],
+    "Affiliation": "UA College of Humanities",
+    "Year": 2021,
+    "Email": "torrescirina@email.arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Research Projects",
+    "Theme": "Place and Identity, Higher Education",
+    "Product": "Article, Multimedia",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.263682,
+    "Longitude": -110.943802,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-44-borderland-feminisms-and-margi",
+    "ProjectName": "Borderland Feminisms and Marginalized Knowledges",
+    "ProjectLeads": [
+      "Barbara Teso"
+    ],
+    "Affiliation": "UA Mexican American Studies",
+    "Year": 2021,
+    "Email": "bteso@email.arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Research Projects",
+    "Theme": "Place and Identity, Higher Education",
+    "Product": "Article, Multimedia",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.294712,
+    "Longitude": -110.873166,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-45-logro-educativo-testimonios",
+    "ProjectName": "Logro Educativo Testimonios",
+    "ProjectLeads": [
+      "Cindy Trejo"
+    ],
+    "Affiliation": "UA Mexican American Studies",
+    "Year": 2021,
+  "Email": "cdtrejo@email.arizona.edu",
+  "ImageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-03/Cindy-Trejo-Headshot.jpg",
+    "ProjectCategory": "Research Projects",
+    "Theme": "Higher Education",
+    "Product": "Article, Multimedia",
+    "Location": "Nogales, MX",
+  "DescriptionShort": "Cindy Trejo collects testimonios from San Luis scholars carving space in higher education.",
+  "DescriptionLong": "Logro Educativo Testimonios documents the journeys of first-generation Latinx students from San Luis, AZ. Producer Cindy Trejo chronicles their paths to college through interviews, archival footage, and community screenings that inspire future scholars.",
+    "Latitude": 32.121892,
+    "Longitude": -110.948982,
+    "Bio": null,
+    "Artworks": [
+      {
+        "title": "Portrait: Cindy Trejo",
+        "description": "Documentary producer Cindy Trejo uplifts San Luis students through multimedia testimonios.",
+        "imageUrl": "https://confluencenter.arizona.edu/sites/default/files/2025-03/Cindy-Trejo-Headshot.jpg"
+      }
+    ],
+    "Music": [],
+    "Research": [
+      {
+        "title": "Logro Educativo Research Notes",
+        "description": "Case studies highlighting Latinx persistence strategies from Southwest Junior High alumni.",
+        "link": "https://confluencenter.arizona.edu/fronteridades/fronteridades-fellows/graduate-fellows/graduate-fellows-2021"
+      }
+    ],
+    "Outcomes": [
+      {
+        "outcomeType": "Video",
+        "outcomeTitle": "Logro Educativo Testimonios",
+        "outcomeSummary": "Project Logro Educativo captured the narratives and experiences of seven former Southwest Junior High college students/graduates.",
+        "outcomeLink": "",
+        "reflection": "Being a graduate fellow allowed me to amplify the voices and showcase the achievements of the San Luis Scholars. Contributing to this work fills me with gratitude, knowing that these stories can inspire future generations and affirm that the Latinx community does belong in academia."
+      },
+      {
+        "activityTitle": "",
+        "mediaType": "Video",
+        "mediaTitle": "Logro Educativo Testimonios",
+        "mediaSummary": "",
+        "mediaUrl": "https://vimeo.com/568623045",
+        "embededContent": ""
+      }
+    ],
+  "HasArtwork": true,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-46-becky-the-explorer",
+    "ProjectName": "Becky the Explorer",
+    "ProjectLeads": [
+      "Bella Varela"
+    ],
+    "Affiliation": "UA College of Fine Arts",
+    "Year": 2021,
+    "Email": "bmvarela@email.arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Research Projects",
+    "Theme": "Place and Identity",
+    "Product": "Multimedia",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.244341,
+    "Longitude": -110.913613,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": true,
+    "HasPoems": false,
+    "Tags": [
+      "research"
+    ]
+  },
+  {
+    "id": "project-47-intern-at-coalicion-de-derecho",
+    "ProjectName": "Intern at Coalicion de Derechos Humanos",
+    "ProjectLeads": [
+      "Victoria Silva"
+    ],
+    "Affiliation": "UA College of Law",
+    "Year": 2024,
+    "Email": "victoriasilva@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Migration and Human Rights",
+    "Product": "Internship",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.116341,
+    "Longitude": -110.828217,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-48-intern-at-coalicion-de-derecho",
+    "ProjectName": "Intern at Coalicion de Derechos Humanos",
+    "ProjectLeads": [
+      "Isabela Gamez"
+    ],
+    "Affiliation": "UA School of Journalism",
+    "Year": 2024,
+    "Email": "gamezi@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Migration and Human Rights",
+    "Product": "Internship",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.201823,
+    "Longitude": -110.835692,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-49-intern-at-stop-the-hate-collec",
+    "ProjectName": "Intern at Stop the Hate Collective",
+    "ProjectLeads": [
+      "Fernando Valdez"
+    ],
+    "Affiliation": "UA History",
+    "Year": 2024,
+    "Email": "fvaldes1@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Migration and Human Rights",
+    "Product": "Internship",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.26322,
+    "Longitude": -110.870734,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-50-intern-at-southwest-center",
+    "ProjectName": "Intern at Southwest Center",
+    "ProjectLeads": [
+      "Elsiabeth Clark"
+    ],
+    "Affiliation": "UA School of Anthropology",
+    "Year": 2024,
+    "Email": "elisabethc@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Migration and Human Rights",
+    "Product": "Internship",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.277668,
+    "Longitude": -110.81677,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-51-intern-at-southwest-center",
+    "ProjectName": "Intern at Southwest Center",
+    "ProjectLeads": [
+      "Belen Muro Quijada"
+    ],
+    "Affiliation": "UA College of Fine Arts",
+    "Year": 2024,
+    "Email": "bmuro@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Migration and Human Rights",
+    "Product": "Internship",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.179937,
+    "Longitude": -110.89276,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-52-intern-at-salvavision",
+    "ProjectName": "Intern at Salvavision",
+    "ProjectLeads": [
+      "Alivia Alexander"
+    ],
+    "Affiliation": "UA College of Humanities, UA College of Fine Arts",
+    "Year": 2024,
+    "Email": "aliviamay315@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Migration and Human Rights",
+    "Product": "Internship",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.256191,
+    "Longitude": -110.911173,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-53-intern-at-the-florence-project",
+    "ProjectName": "Intern at The Florence Project",
+    "ProjectLeads": [
+      "Jakob Buckley"
+    ],
+    "Affiliation": "UA School of Government and Public Policy",
+    "Year": 2024,
+    "Email": "jakobbuckley@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Migration and Human Rights",
+    "Product": "Internship",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.143948,
+    "Longitude": -110.884128,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-54-intern-at-humane-borders",
+    "ProjectName": "Intern at Humane Borders",
+    "ProjectLeads": [
+      "Monica Brody-D'Urso"
+    ],
+    "Affiliation": "UA College of Humanities",
+    "Year": 2024,
+    "Email": "mbrody22@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Migration and Human Rights",
+    "Product": "Internship",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.213765,
+    "Longitude": -110.862886,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-55-intern-at-moca-tucson",
+    "ProjectName": "Intern at MOCA Tucson",
+    "ProjectLeads": [
+      "Moises Hernandez"
+    ],
+    "Affiliation": "UA Latin American Studies",
+    "Year": 2024,
+    "Email": "moiseshernandez@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Public Arts",
+    "Product": "Internship",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.195323,
+    "Longitude": -110.812484,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-56-intern-at-arts-foundation",
+    "ProjectName": "Intern at Arts Foundation",
+    "ProjectLeads": [
+      "Ana Paula Manobe"
+    ],
+    "Affiliation": "UA College of Fine Arts",
+    "Year": 2024,
+    "Email": "apmonobe@arizona.edu",
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Public Arts",
+    "Product": "Internship",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.113474,
+    "Longitude": -110.986384,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-57-intern-at-blue-lotus-artists-c",
+    "ProjectName": "Intern at Blue Lotus Artists Collective",
+    "ProjectLeads": [
+      "Roxanna Rios"
+    ],
+    "Affiliation": "UA College of Science",
+    "Year": 2024,
+    "Email": "Roxannacrystal04@gmail.com",
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Public Arts",
+    "Product": "Internship",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.156697,
+    "Longitude": -110.985027,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-58-intern-at-blue-lotus-artists-c",
+    "ProjectName": "Intern at Blue Lotus Artists Collective",
+    "ProjectLeads": [
+      "Olivia Gard"
+    ],
+    "Affiliation": "UA College of Law",
+    "Year": 2025,
+    "Email": null,
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Public Arts",
+    "Product": "Internship",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-59-intern-at-coalicion-de-derecho",
+    "ProjectName": "Intern at Coalicion de Derechos Humanos",
+    "ProjectLeads": [
+      "Cara Buchanan"
+    ],
+    "Affiliation": "UA College of Humanities, UA College of SBS",
+    "Year": 2025,
+    "Email": null,
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Migration and Human Rights",
+    "Product": "Internship",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-60-intern-at-chicanos-por-la-caus",
+    "ProjectName": "Intern at Chicanos por la Causa",
+    "ProjectLeads": [
+      "Isabel Campos"
+    ],
+    "Affiliation": "UA College of Humanities, UA College of Law",
+    "Year": 2025,
+    "Email": null,
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Migration and Human Rights",
+    "Product": "Internship",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-61-intern-at-chicanos-por-la-caus",
+    "ProjectName": "Intern at Chicanos por la Causa",
+    "ProjectLeads": [
+      "Nathaniel Cross"
+    ],
+    "Affiliation": "UA WA Franke Honors College",
+    "Year": 2025,
+    "Email": null,
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Migration and Human Rights",
+    "Product": "Internship",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-62-intern-at-southwest-center",
+    "ProjectName": "Intern at Southwest Center",
+    "ProjectLeads": [
+      "Scarlett Fierro"
+    ],
+    "Affiliation": "UA College of Humanities, UA College of SBS",
+    "Year": 2025,
+    "Email": null,
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Migration and Human Rights",
+    "Product": "Internship",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-63-intern-at-coalicion-de-derecho",
+    "ProjectName": "Intern at Coalicion de Derechos Humanos",
+    "ProjectLeads": [
+      "Daniel Herrera"
+    ],
+    "Affiliation": "UA Latin American Studies",
+    "Year": 2025,
+    "Email": null,
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Migration and Human Rights",
+    "Product": "Internship",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-64-intern-at-coalicion-de-derecho",
+    "ProjectName": "Intern at Coalicion de Derechos Humanos",
+    "ProjectLeads": [
+      "Emma LaPointe"
+    ],
+    "Affiliation": "UA WA Franke Honors College",
+    "Year": 2025,
+    "Email": null,
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Migration and Human Rights",
+    "Product": "Internship",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-65-intern-at-humane-borders",
+    "ProjectName": "Intern at Humane Borders",
+    "ProjectLeads": [
+      "Sarahi Marquez"
+    ],
+    "Affiliation": "UA College of Humanities, UA College of Science",
+    "Year": 2025,
+    "Email": null,
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Migration and Human Rights",
+    "Product": "Internship",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-66-intern-at-moca-tucson",
+    "ProjectName": "Intern at MOCA Tucson",
+    "ProjectLeads": [
+      "Natalia Morales"
+    ],
+    "Affiliation": "UA Latin American Studies, UA Gender and Womens Studies",
+    "Year": 2025,
+    "Email": null,
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Public Arts",
+    "Product": "Internship",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-67-intern-at-moca-tucson",
+    "ProjectName": "Intern at MOCA Tucson",
+    "ProjectLeads": [
+      "Darlene Peralta"
+    ],
+    "Affiliation": "UA College of SBS",
+    "Year": 2025,
+    "Email": null,
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Public Arts",
+    "Product": "Internship",
+    "Location": "Tucson",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-68-dougla-prieta-trabaja:-women-o",
+    "ProjectName": "Dougla Prieta Trabaja: Women of Color Leading Cross National Collaboration",
+    "ProjectLeads": [
+      "M. Jenea Sanchez",
+      "Gabriela Muñoz",
+      "John-Michael Warner"
+    ],
+    "Affiliation": null,
+    "Year": null,
+    "Email": null,
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Community Leadership",
+    "Product": "Workshops, Community Engagement",
+    "Location": "Douglas, AZ",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.238808,
+    "Longitude": -110.903757,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-69-promotoras-comunitarias-transf",
+    "ProjectName": "Promotoras Comunitarias Transfronterizas",
+    "ProjectLeads": [
+      "Bernardette Eguía",
+      "César López",
+      "Carolina Iniguez",
+      "Javier Brambila"
+    ],
+    "Affiliation": null,
+    "Year": null,
+    "Email": null,
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Community Leadership",
+    "Product": "Workshops, Community Engagement",
+    "Location": "Nogales, AZ",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.261647,
+    "Longitude": -110.861336,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  },
+  {
+    "id": "project-70-nogalería/nogallery",
+    "ProjectName": "Nogalería/Nogallery",
+    "ProjectLeads": [
+      "Priscilla \"Nefftys\" Rodriguez",
+      "Gerardo Frías",
+      "Antonio Lucero"
+    ],
+    "Affiliation": null,
+    "Year": null,
+    "Email": null,
+    "ImageUrl": null,
+    "ProjectCategory": "Education and Community Outreach",
+    "Theme": "Public Arts",
+    "Product": "Multimedia",
+    "Location": "Nogales, AZ",
+    "DescriptionShort": "",
+    "DescriptionLong": "",
+    "Latitude": 32.22029,
+    "Longitude": -110.955753,
+    "Bio": null,
+    "Artworks": [],
+    "Music": [],
+    "Research": [],
+    "Outcomes": [],
+    "HasArtwork": false,
+    "HasMusic": false,
+    "HasResearch": false,
+    "HasPoems": false,
+    "Tags": [
+      "community"
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Interactive 3D globe exploring Arizona-Sonora borderlands research projects" />
+  <meta name="theme-color" content="#ffffff" />
+  <title>3D Globe Story Map - Arizona-Sonora Borderlands</title>
+
+  <!-- DNS Prefetch for fastest connection -->
+  <link rel="dns-prefetch" href="https://cdn.jsdelivr.net" />
+  <link rel="dns-prefetch" href="https://unpkg.com" />
+
+  <!-- Preconnect to critical third-party origins -->
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
+  <link rel="preconnect" href="https://unpkg.com" crossorigin />
+
+  <!-- Module preload hints for HTTP - parallel fetching of modules -->
+  <link rel="modulepreload" href="./src/components/App.js" />
+  <link rel="modulepreload" href="./src/components/GlobeContainer.js" />
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="./styles/theme-variables.css" />
+  <link rel="stylesheet" href="./styles/base.css" />
+  <link rel="stylesheet" href="./styles/globe.css" />
+  <link rel="stylesheet" href="./styles/bottom-sheet.css" />
+  <!-- Cesium CSS deferred -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cesium@latest/Build/Cesium/Widgets/widgets.css" media="print" onload="this.media='all'" />
+
+  <!-- Global dependencies (loaded as UMD for React/ReactDOM) -->
+  <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+
+  <!-- Cesium JS -->
+  <script src="https://cdn.jsdelivr.net/npm/cesium@latest/Build/Cesium/Cesium.js"></script>
+
+  <!-- Configuration -->
+  <script src="./config/cesium-config.js"></script>
+  <script src="./data/border-wall-path.js"></script>
+
+  <!-- Utilities (global window utilities) -->
+  <script src="./utils/routing.js"></script>
+  <script src="./utils/perf.js"></script>
+  <script src="./utils/share.js"></script>
+
+  <!-- App entry point (ES module) -->
+  <script type="module" src="./src/main.js"></script>
+</head>
+
+<body>
+  <!-- Root container for React app -->
+  <div id="root"></div>
+</body>
+</html>

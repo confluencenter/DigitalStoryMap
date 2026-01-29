@@ -1,0 +1,10 @@
+/**
+ * bottom-sheet.css - Aggregator that keeps the bottom sheet styling modular
+ * Split into layout, controls, project list, detail, and responsive pieces for easier maintenance.
+ */
+
+@import './bottom-sheet-layout.css';
+@import './bottom-sheet-controls.css';
+@import './bottom-sheet-projects.css';
+@import './bottom-sheet-detail.css';
+@import './bottom-sheet-responsive.css';

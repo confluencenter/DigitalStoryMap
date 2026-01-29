@@ -1,0 +1,131 @@
+/**
+ * bottom-sheet.css - Unified control center
+ * Top: Controls, filters, theme selector
+ * Bottom: Horizontal scrolling project grid + full-width detail view
+ * Uses narrative bar's glassy aesthetic for premium feel
+ */
+
+/* ===== BOTTOM SHEET CONTAINER ===== */
+.bottom-sheet {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: var(--sidebar-bg);
+  border-top: 1px solid var(--border-soft);
+  z-index: 230;
+  backdrop-filter: blur(16px);
+  box-shadow: 0 -8px 32px var(--overlay-medium);
+  transition: transform 300ms ease;
+  display: flex;
+  flex-direction: column;
+  transform: translateY(var(--bottom-sheet-translate, calc(100% - 32px)));
+  height: 100%;
+  max-height: 100dvh;
+  will-change: transform;
+}
+
+/* Expanded state */
+.bottom-sheet.expanded {
+  --bottom-sheet-translate: 0px;
+}
+
+/* ===== DRAG HANDLE ===== */
+.bottom-sheet-handle {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: grab;
+  background: linear-gradient(180deg, var(--sidebar-bg) 0%, var(--sidebar-bg) 90%, transparent 100%);
+  border-bottom: 1px solid var(--border-soft);
+  flex-shrink: 0;
+  padding: 0;
+  margin: 0;
+  z-index: 10;
+  touch-action: none;
+  user-select: none;
+}
+
+.bottom-sheet-handle:active {
+  cursor: grabbing;
+}
+
+/* Visual drag indicator */
+.bottom-sheet-handle::before {
+  content: '';
+  width: 48px;
+  height: 5px;
+  background: var(--text-muted);
+  border-radius: 2.5px;
+  opacity: 0.4;
+  transition: opacity 200ms ease;
+}
+
+.bottom-sheet-handle:hover::before {
+  opacity: 0.6;
+}
+
+.bottom-sheet-handle::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: var(--sheet-handle-gradient);
+  opacity: 0;
+  animation: handlePulse 2000ms ease-in-out infinite;
+  transition: opacity 200ms ease;
+}
+
+.bottom-sheet-handle:hover::after {
+  opacity: 1;
+}
+
+@keyframes handlePulse {
+  0% {
+    transform: scale(0.95);
+    opacity: 0;
+  }
+  40% {
+    transform: scale(1);
+    opacity: 0.35;
+  }
+  80% {
+    transform: scale(1.05);
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+/* ===== CONTENT WRAPPER ===== */
+.bottom-sheet-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  max-height: calc(100vh - 32px);
+  position: relative;
+}
+
+/* ===== OVERLAY (when expanded) ===== */
+.bottom-sheet-overlay {
+  position: fixed;
+  inset: 0;
+  background: transparent;
+  z-index: 220;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 300ms ease;
+}
+
+.bottom-sheet.expanded ~ .bottom-sheet-overlay {
+  background: var(--overlay-strong);
+  opacity: 1;
+  pointer-events: auto;
+}
+
